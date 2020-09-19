@@ -1,4 +1,4 @@
-# Flutter Netflix Responsive UI Tutorial | Web and Mobile
+# Flutter Netflix Responsive UI | Web and Mobile
 
 ## Motivations
 I am a front-end engineer who loves to study new languages, technologies and implement different user interfaces.
