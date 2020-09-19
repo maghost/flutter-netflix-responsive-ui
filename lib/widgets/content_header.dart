@@ -16,7 +16,7 @@ class ContentHeader extends StatelessWidget {
       alignment: Alignment.center,
       children: [
         Container(
-          height: 500.0,
+          height: 499.0,
           decoration: BoxDecoration(
             image: DecorationImage(
               image: AssetImage(featuredContent.imageUrl),
